@@ -1,1 +1,25 @@
-# House_Price_Preprocessing-Prajwal-
+# House_Price Preprocessing (Prajwal) 
+
+# Pre-Processing Steps:
+
+#### 1) Import relevent libraries
+#### 2) Import thye Data Set to analyse and clean for prediction
+#### 3) Missing value treatement(Impute the dataset)
+##### * In numerical data
+###### * Populate with mean - When there is no outlier
+###### * Populate with median - When there is outlier
+#### 4) Categorical data - Model impulation - Maximum data category
+#### 5) Encoding
+##### * Label Encoding - Convert to number
+##### * One Hot Encoding - Create multiple columns based on number of unique record count.
+#### 6) Feature Scaling
+##### * Standarddization - When there no outlier.
+##### * Normaliation/ MIn Max Scaler : When there is outlier.
+
+## Standardization:
+
+Xnew = Xi - Xmean / Standard Deviation
+
+## Min Max Scaler:
+
+Z = X - min(x) / [max(x) - min(x)]
