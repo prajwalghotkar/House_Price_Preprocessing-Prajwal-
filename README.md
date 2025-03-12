@@ -29,8 +29,8 @@ Z = X - min(x) / [max(x) - min(x)]
 ###### * The term univariate analysis refers to the analysis of one variable. You can remeber this because the prefix 'uni' means 'one'.
 ###### * The univeriate analysis aims to understand the distribution of values for a single variable.
 
-####### * Bivariate Analysis : The analysis of two variables.
-####### * Multivariate Analysis : The analysis of two or more variables.
+###### * Bivariate Analysis : The analysis of two variables.
+###### * Multivariate Analysis : The analysis of two or more variables.
 
 #### Examples of Univariate Analysis
 ##### Central Tendency
