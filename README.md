@@ -78,6 +78,5 @@ Z = X - min(x) / [max(x) - min(x)]
 ##### * Impute with values 3 * Percentile 99 and 0.3 * Percentile 1
 ##### * You can use any multiplier instead of 3
 
-
-###### Prajwal Ghotkar
+🙋‍♂️ 👨‍💻 Developed by Prajwal Ghotkar 
 
